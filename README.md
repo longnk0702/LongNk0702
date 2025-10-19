@@ -89,7 +89,7 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnk0702&layout=compact" />
 </p>
 
-Streaks (optional; uncomment if you like it)
+Streaks
 <p align="left">
   <img height="165" src="https://streak-stats.demolab.com?user=longnk0702" />
 </p>
