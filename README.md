@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm LONG Nguyen Khac</h1>
+<h1 align="center">Hi 👋, I'm LONG (Leon)</h1>
 <h3 align="center">Robotics & Control | Embedded Systems | AI for Mechatronics</h3>
 
 <p align="center">
