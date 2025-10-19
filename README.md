@@ -30,7 +30,7 @@
 - 🤖 **Robotics & Mechatronics**: Delta parallel robots, UAVs, manipulator kinematics  
 - ⚙️ **Control Systems**: Adaptive Fuzzy, Backstepping, PID, MPC/NMPC  
 - 🧩 **AI for Engineering Systems**: SINDy, Gradient Boosting, Random Forest  
-- 🏭 **Smart Manufacturing**: Cutting-force prediction (Taguchi), shop-floor intelligence
+- 🏭 **Smart Manufacturing**: Cutting-force prediction
 
 ---
 
