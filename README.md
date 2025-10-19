@@ -18,7 +18,7 @@
 ---
 
 ### 👨🏻‍🎓 About
-- 🎓 **B.E. in Automation & Informatics**, Vietnam National University – Hanoi (VNU-IS)  
+- 🎓 **B.E. in Automation & Informatics**, Vietnam National University – Hanoi (VNU)  
 - 📍 Currently exchanging at **National University of Singapore (NUS)**  
 - 🔭 Passionate about **Robotics**, **Embedded Control Systems**, **AI-driven Mechatronic Intelligence**  
 - 🌱 Learning: **PyTorch, OpenCV, ROS, Jetson Nano**  
