@@ -93,14 +93,6 @@ Streaks (optional; uncomment if you like it)
 <p align="left">
   <img height="165" src="https://streak-stats.demolab.com?user=longnk0702" />
 </p>
-
-
 ---
-
-### 🌐 Connect
-- 🌐 Website: <a href="https://longnk0702.github.io" target="_blank">longnk0702.github.io</a>  
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/longnk0702/" target="_blank">linkedin.com/in/longnk0702</a>  
-- 📫 Email: <a href="mailto:nk.long723@gmail.com">nk.long723@gmail.com</a>  
-<!-- - 📘 Google Scholar: *(upcoming)* -->
 
 > “Control is not just about systems — it’s about empowering intelligence in motion.”
