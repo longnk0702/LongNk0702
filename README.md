@@ -43,7 +43,7 @@
   2,632 real images; 6 activations compared; **mAP@0.5 = 83.9%**.  
   Vision-based safety for real-world sites.
 
-- **Implementation: Adaptive Control for 3-DOF Parallel Robot (2024)**  
+- **Adaptive Control for 3-DOF Parallel Robot (2024)**  
   Mechanical prototype + embedded closed-loop control; MATLAB–Simulink integration.  
   _Published in_ **Springer STAIS 2023** & **ICTA 2024**.
 
