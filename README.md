@@ -1,108 +1,106 @@
-<!-- <h1 align="center">Hi 👋, I'm LONG Nguyen Khac</h1>
-<h3 align="center">A passionate robotics learner and developer from Vietnam</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm LONG Nguyen Khac</h1>
+<h3 align="center">Robotics & Control | Embedded Systems | AI for Mechatronics</h3>
 
-- 🌱 I’m currently learning **Pytorch, OpenCV, ROS, Jetson Nano**
-
-- 📫 How to reach me **nk.long723@gmail.com**
-
-- 📄 Know about my experiences [https://longnk0702.github.io/](https://longnk0702.github.io/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/longnk0702/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/longnk0702/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/long.khac.923/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/long.khac.923/" height="30" width="40" /></a>
-<a href="https://instagram.com/k.long.72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="k.long.72" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://longnk0702.github.io" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Website-longnk0702.github.io-blue?logo=google-chrome&logoColor=white">
+  </a>
+  <a href="mailto:longnk0702@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-longnk0702%40gmail.com-red?logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/longnk0702/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Long%20Nguyen%20Khac-0A66C2?logo=linkedin&logoColor=white">
+  </a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=longnk0702&style=flat&color=blue">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p> -->
+---
 
-# 🤖 Long Nguyen Khac | Robotics & Control Enthusiast  
-
-🎓 **B.E. in Automation & Informatics**, Vietnam National University, Hanoi (VNU)  
-📍 Currently studying abroad at **National University of Singapore (NUS)**  
-💡 Passionate about **Robotics**, **Embedded Control Systems**, and **AI-driven Mechatronic Intelligence**
+### 👨🏻‍🎓 About
+- 🎓 **B.E. in Automation & Informatics**, Vietnam National University – Hanoi (VNU-IS)  
+- 📍 Currently studying at **National University of Singapore (NUS)**  
+- 🔭 Passionate about **Robotics**, **Embedded Control Systems**, **AI-driven Mechatronic Intelligence**  
+- 🌱 Learning: **PyTorch, OpenCV, ROS, Jetson Nano**  
+- 📫 Reach me: **longnk0702@gmail.com**
 
 ---
 
-## 🌟 About Me
-
-Hi, I'm **Long**, a lifelong learner exploring the intersection between **robotics, control systems**, and **artificial intelligence**.  
-My journey began with mechanical design and control of parallel robots, and has since evolved into developing **data-driven models**, **adaptive controllers**, and **smart manufacturing systems**.
-
-I'm passionate about making intelligent systems that can **adapt**, **learn**, and **act autonomously** — bridging theory and real-world applications.
-
----
-
-## 🧠 Research Interests
-
-- 🤖 **Robotics & Mechatronics** — Delta parallel robots, UAVs, manipulator kinematics  
-- ⚙️ **Control Systems** — Adaptive Fuzzy Control, Backstepping, PID, MPC/NMPC  
-- 🧩 **AI for Engineering Systems** — SINDy models, Gradient Boosting, Random Forest  
-- 🏭 **Smart Manufacturing** — Cutting-force prediction
+### 🧠 Research Interests
+- 🤖 **Robotics & Mechatronics**: Delta parallel robots, UAVs, manipulator kinematics  
+- ⚙️ **Control Systems**: Adaptive Fuzzy, Backstepping, PID, MPC/NMPC  
+- 🧩 **AI for Engineering Systems**: SINDy, Gradient Boosting, Random Forest  
+- 🏭 **Smart Manufacturing**: Cutting-force prediction (Taguchi), shop-floor intelligence
 
 ---
 
-## 🧪 Selected Projects
+### 🧪 Selected Projects
+- **Adaptive Fuzzy + Backstepping for 3-DOF Delta Robot**  
+  Stability via **Lyapunov**; validated in **MATLAB/Simulink**.  
+  _Published in_ *Lecture Notes in Networks and Systems* (Springer, Q4).
 
-### 🔹 Adaptive Fuzzy Logic in Backstepping Control for 3-DOF Parallel Delta Robot
-- Proposed a **Backstepping + Fuzzy Logic** approach to handle nonlinear dynamics and uncertainties.  
-- Demonstrated stability via **Lyapunov theory**, validated with **MATLAB/Simulink** simulations.  
-- 🧾 Published in *Lecture Notes in Networks and Systems* (Springer, Q4).
+- **YOLOv5s for PPE Detection on Construction Sites**  
+  2,632 real images; 6 activations compared; **mAP@0.5 = 83.9%**.  
+  Vision-based safety for real-world sites.
 
-<!-- ### 🔹 Prediction of Cutting Force in Milling Using a Data-driven Model
-- Developed Gradient Boosting & Random Forest models to predict cutting force from **Taguchi-based 27 experiments**.  
-- Achieved **R² up to 0.97**, proving feasibility of **AI-assisted machining optimization**.   -->
+- **Implementation: Adaptive Control for 3-DOF Parallel Robot (2024)**  
+  Mechanical prototype + embedded closed-loop control; MATLAB–Simulink integration.  
+  _Published in_ **Springer STAIS 2023** & **ICTA 2024**.
 
-### 🔹 Detection of PPE on Construction Sites Using YOLOv5s
-- Trained YOLOv5s with 2,632 real images for helmet, vest, gloves, boots, and person detection.  
-- Compared 6 activation functions (SiLU, HardSwish, Mish...)  
-- Achieved **mAP@0.5 = 83.9%**, highlighting vision-based safety systems.  
-
-### 🔹 Implementation Adaptive Control for 3-DOF Parallel Robot (2024)
-- Built **mechanical prototype & adaptive fuzzy controller** for real robot model.  
-- Integrated MATLAB–Simulink with embedded hardware for closed-loop tracking.  
-- Published in **Springer STAIS 2023 & ICTA 2024**.
+<!-- Optional: uncomment if you want to show the cutting force ML project
+- **Cutting-Force Prediction in Milling (Taguchi 27 sets)**  
+  Gradient Boosting / Random Forest; **R² up to 0.97**; path to AI-assisted machining.
+-->
 
 ---
 
-<!-- ## 💼 Teaching & Mentorship
-
-- **Teaching Assistant** – *Modeling and Simulation of Control Systems* (VNU)  
-  Guided 30+ students on MATLAB/Simulink for control and robotics applications.  
-- **Teaching Assistant** – *Microprocessors and Microcontrollers*  
-  Mentored students in embedded C programming using Arduino & STM32.  
-- **Mentor** – *World Robotics Olympiad 2022 Vietnam*  
-  Led team in LEGO-based robotics; built creative STEM modules for young learners. -->
-
----
-
-## 🧩 Current Focus
-
-- Studying **Data-driven model** to estimate cutting force dynamics in milling process.
-- Exploring **MPC–SINDy** hybrid models for UAV dynamics & real-time control.  
-<!-- - Building a personal GitHub space integrating research, visualization, and educational resources. -->
-
----
-
-## 🛠️ Technical Stack
-
+### 🛠️ Tech Stack
 **Languages:** MATLAB, Python, C/C++, LaTeX, HTML/CSS  
-**Tools:** Simulink, STM32CubeIDE, Arduino IDE, TIA Portal, SolidWorks  
-**Libraries:** PySINDy, scikit-learn, TensorFlow, OpenCV, matplotlib  
-**Domains:** Control design, signal processing, machine learning, data visualization  
+**Frameworks/Libraries:** PySINDy, scikit-learn, TensorFlow, OpenCV, matplotlib  
+**Tools:** Simulink, STM32CubeIDE, Arduino IDE, TIA Portal, SolidWorks, ROS  
+**Domains:** Control design, signal processing, ML for dynamics, data viz
 
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="32"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" height="32"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" height="32"/>
+  <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ROS" height="32"/>
+</p>
 
 ---
 
-## 🚀 Let’s Connect
+### 📌 Featured
+<!-- Replace the repo links below with your actual repositories -->
+- 🔗 [Delta-Parallel-Robot-Backstepping-Fuzzy](https://github.com/longnk0702/Delta-Parallel-Robot-Backstepping-Fuzzy)  
+- 🔗 [PPE-Detection-YOLOv5s](https://github.com/longnk0702/PPE-Detection-YOLOv5s)  
+- 🔗 [Cutting-Force-ML-Taguchi](https://github.com/longnk0702/Cutting-Force-ML-Taguchi)  
+- 🔗 [UAV-MPC-SINDy](https://github.com/longnk0702/UAV-MPC-SINDy)
 
-📫 **Email:** longnk0702@gmail.com  
-🌐 **Website:** [longnk0702.github.io](https://longnk0702.github.io)  
-💼 **LinkedIn:** [linkedin.com/in/longnk0702](https://linkedin.com/in/longnk0702)  
-📘 **Google Scholar:** [Scholar Profile](#) *(upcoming)*  
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=longnk0702&show_icons=true&hide_title=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longnk0702&layout=compact" />
+</p>
+
+<!-- Streaks (optional; uncomment if you like it)
+<p align="left">
+  <img height="165" src="https://streak-stats.demolab.com?user=longnk0702" />
+</p>
+-->
+
+---
+
+### 🌐 Connect
+- 🌐 Website: <a href="https://longnk0702.github.io" target="_blank">longnk0702.github.io</a>  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/longnk0702/" target="_blank">linkedin.com/in/longnk0702</a>  
+- 📫 Email: <a href="mailto:longnk0702@gmail.com">longnk0702@gmail.com</a>  
+<!-- - 📘 Google Scholar: *(upcoming)* -->
 
 > “Control is not just about systems — it’s about empowering intelligence in motion.”
-
----
-
