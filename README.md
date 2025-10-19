@@ -6,8 +6,8 @@
   <a href="https://longnk0702.github.io" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-longnk0702.github.io-blue?logo=google-chrome&logoColor=white">
   </a>
-  <a href="mailto:longnk0702@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-longnk0702%40gmail.com-red?logo=gmail&logoColor=white">
+  <a href="mailto:nk.long723@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-nk.long723%40gmail.com-red?logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/longnk0702/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Long%20Nguyen%20Khac-0A66C2?logo=linkedin&logoColor=white">
@@ -19,10 +19,10 @@
 
 ### 👨🏻‍🎓 About
 - 🎓 **B.E. in Automation & Informatics**, Vietnam National University – Hanoi (VNU-IS)  
-- 📍 Currently studying at **National University of Singapore (NUS)**  
+- 📍 Currently exchanging at **National University of Singapore (NUS)**  
 - 🔭 Passionate about **Robotics**, **Embedded Control Systems**, **AI-driven Mechatronic Intelligence**  
 - 🌱 Learning: **PyTorch, OpenCV, ROS, Jetson Nano**  
-- 📫 Reach me: **longnk0702@gmail.com**
+- 📫 Reach me: **nk.long723@gmail.com**
 
 ---
 
@@ -55,7 +55,7 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** MATLAB, Python, C/C++, LaTeX, HTML/CSS  
+**Languages:** MATLAB, Python, C/C++, LaTeX 
 **Frameworks/Libraries:** PySINDy, scikit-learn, TensorFlow, OpenCV, matplotlib  
 **Tools:** Simulink, STM32CubeIDE, Arduino IDE, TIA Portal, SolidWorks, ROS  
 **Domains:** Control design, signal processing, ML for dynamics, data viz
