@@ -72,16 +72,16 @@
   <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ROS" height="32"/>
 </p>
 
----
+<!-- --- -->
 
-<!-- ### 📌 Featured
+<!-- ### 📌 Featured -->
 <!-- Replace the repo links below with your actual repositories -->
-- 🔗 [Delta-Parallel-Robot-Backstepping-Fuzzy](https://github.com/longnk0702/Delta-Parallel-Robot-Backstepping-Fuzzy)  
+<!-- - 🔗 [Delta-Parallel-Robot-Backstepping-Fuzzy](https://github.com/longnk0702/Delta-Parallel-Robot-Backstepping-Fuzzy)  
 - 🔗 [PPE-Detection-YOLOv5s](https://github.com/longnk0702/PPE-Detection-YOLOv5s)  
 - 🔗 [Cutting-Force-ML-Taguchi](https://github.com/longnk0702/Cutting-Force-ML-Taguchi)  
 - 🔗 [UAV-MPC-SINDy](https://github.com/longnk0702/UAV-MPC-SINDy) -->
 
----
+<!-- --- -->
 
 ### 📈 GitHub Stats
 <p align="left">
