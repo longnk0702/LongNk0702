@@ -1,39 +1,26 @@
 <h1 align="center">Long Nguyen Khac</h1>
 <p align="center">Robotics · Control · Intelligent Systems</p>
 
-<p align="center">
-  <a href="https://longnk0702.github.io">Website</a> ·
-  <a href="mailto:nk.long723@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/longnk0702/">LinkedIn</a>
-</p>
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=[https://limhyungtae.github.io/](https://longnk0702.github.io/)]([https://limhyungtae.github.io/hyungtae-lim/](https://longnk0702.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/hyungtae-lim-34b8a015a/](https://www.linkedin.com/in/longnk0702/)]([https://www.linkedin.com/in/hyungtae-lim-34b8a015a/](https://www.linkedin.com/in/longnk0702/))
+[![Scholar Badge](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=GoogleScholar&logoColor=white&link=[https://scholar.google.com/citations?user=S1A3nbIAAAAJ&hl=en](https://scholar.google.com/citations?user=HCHDS8oAAAAJ&hl=en)]([https://scholar.google.com/citations?user=S1A3nbIAAAAJ&hl=en](https://scholar.google.com/citations?user=HCHDS8oAAAAJ&hl=en)
+[![CV Badge](https://img.shields.io/badge/CV-navy?style=flat-square&logo=AdobeAcrobatReader&logoColor=white&link=[https://github.com/LimHyungTae/LimHyungTae.github.io/blob/master/cv_and_research_statement/cv.pdf](https://longnk0702.github.io/assets/pdf/CV__Khac_Long_Nguyen.pdf)]([https://github.com/LimHyungTae/LimHyungTae.github.io/blob/master/cv_and_research_statement/cv.pdf](https://longnk0702.github.io/assets/pdf/CV__Khac_Long_Nguyen.pdf)
 
----
 
-### 👨🏻‍🎓 About
-B.E. in Automation & Informatics, VNU Hanoi  
-Exchange at NUS · Incoming Graduate Student at NTU  
-Focus: intelligent control and energy systems for autonomous platforms  
+I'm Nguyen Khac Long, a dedicated researcher who studies robotics, control and AI.
 
----
+<!-- GitHub Readme Stats - User Profile Information -->
+<!--
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=limhyungtae&show_icons=true&theme=tokyonight" width="56%"/>
+</a>
+-->
 
-### 🧠 Research Interests
-- Robotics & Autonomous Systems (AUVs, manipulators)  
-- Control Theory (adaptive, backstepping, MPC)  
-- Underwater Wireless Power Transfer (UWPT)  
-- Learning for Dynamical Systems (SINDy, data-driven modeling)  
+<!-- GitHub Readme Stats - Most Used Languages -->
+<!--
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limhyungtae&layout=compact&theme=tokyonight" width="42.5%"/>
+</a>
+-->
 
----
-
-### 🧪 Selected Work
-- **UWPT for AUVs** — multi-coil modeling, efficiency analysis (MATLAB)  
-- **Adaptive Fuzzy Backstepping Control (Delta Robot)** — Lyapunov-based  
-- **YOLOv5 PPE Detection** — mAP@0.5 = 83.9%  
-
----
-
-### 🛠️ Skills
-MATLAB · Python · C/C++ · PyTorch · OpenCV · Simulink · ROS  
-
----
-
-> Control is not just about systems — it’s about empowering intelligence in motion.
+<!-- GitHub Profile Trophy Display -->
