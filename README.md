@@ -1,5 +1,5 @@
 <h1 align="center">Long Nguyen Khac</h1>
-<p align="center">Robotics · Control · Intelligent Systems</p>
+<p align="center">Robotics · Control · AI</p>
 
 [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat-square&logo=googlechrome&logoColor=white)](https://longnk0702.github.io/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/longnk0702/)
